@@ -1,0 +1,16 @@
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0-windows\NestedLoops.exe
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0-windows\NestedLoops.deps.json
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0-windows\NestedLoops.runtimeconfig.json
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0-windows\NestedLoops.dll
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0-windows\NestedLoops.pdb
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.Form1.resources
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.vbproj.GenerateResource.cache
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.AssemblyInfoInputs.cache
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.AssemblyInfo.vb
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.vbproj.CoreCompileInputs.cache
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.dll
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\refint\NestedLoops.dll
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.pdb
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\NestedLoops.genruntimeconfig.cache
+C:\Users\Collin Joe\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0-windows\ref\NestedLoops.dll

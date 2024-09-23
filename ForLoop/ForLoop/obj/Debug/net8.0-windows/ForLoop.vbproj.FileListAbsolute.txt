@@ -1,0 +1,16 @@
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.Form1.resources
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.vbproj.GenerateResource.cache
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.AssemblyInfoInputs.cache
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.AssemblyInfo.vb
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.vbproj.CoreCompileInputs.cache
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\bin\Debug\net8.0-windows\ForLoop.exe
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\bin\Debug\net8.0-windows\ForLoop.deps.json
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\bin\Debug\net8.0-windows\ForLoop.runtimeconfig.json
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\bin\Debug\net8.0-windows\ForLoop.dll
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\bin\Debug\net8.0-windows\ForLoop.pdb
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.dll
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\refint\ForLoop.dll
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.pdb
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ForLoop.genruntimeconfig.cache
+C:\Users\Collin Joe\source\repos\ForLoop\ForLoop\obj\Debug\net8.0-windows\ref\ForLoop.dll
